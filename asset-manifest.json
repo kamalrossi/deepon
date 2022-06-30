@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/deepon/static/css/main.a45d4565.chunk.css",
+    "main.js": "/deepon/static/js/main.76bde322.chunk.js",
+    "main.js.map": "/deepon/static/js/main.76bde322.chunk.js.map",
+    "runtime-main.js": "/deepon/static/js/runtime-main.e85296b3.js",
+    "runtime-main.js.map": "/deepon/static/js/runtime-main.e85296b3.js.map",
+    "static/css/2.31ff0196.chunk.css": "/deepon/static/css/2.31ff0196.chunk.css",
+    "static/js/2.43c47715.chunk.js": "/deepon/static/js/2.43c47715.chunk.js",
+    "static/js/2.43c47715.chunk.js.map": "/deepon/static/js/2.43c47715.chunk.js.map",
+    "static/js/3.3d926356.chunk.js": "/deepon/static/js/3.3d926356.chunk.js",
+    "static/js/3.3d926356.chunk.js.map": "/deepon/static/js/3.3d926356.chunk.js.map",
+    "index.html": "/deepon/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/deepon/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.a45d4565.chunk.css.map": "/deepon/static/css/main.a45d4565.chunk.css.map",
+    "static/js/2.43c47715.chunk.js.LICENSE.txt": "/deepon/static/js/2.43c47715.chunk.js.LICENSE.txt",
+    "static/media/deepon0.53175b75.png": "/deepon/static/media/deepon0.53175b75.png",
+    "static/media/deepon1.27a00397.png": "/deepon/static/media/deepon1.27a00397.png",
+    "static/media/deepon2.10eeca71.png": "/deepon/static/media/deepon2.10eeca71.png",
+    "static/media/deepon3.ab3b209c.png": "/deepon/static/media/deepon3.ab3b209c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e85296b3.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.43c47715.chunk.js",
+    "static/css/main.a45d4565.chunk.css",
+    "static/js/main.76bde322.chunk.js"
+  ]
+}
